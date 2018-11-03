@@ -1,0 +1,9 @@
+title:    Blog!
+format:   markdown
+url:   /blog
+permalink: first-post
+featured: yes
+--- |-
+Hi! 
+
+This is my blog!
