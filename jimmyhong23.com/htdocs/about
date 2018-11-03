@@ -5,14 +5,14 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi" />
 <meta name="generator" content="verse" />
 
-<title>My New Verse Site subtitle: some thoughts, some musings...</title>
+<title>Jimmy's Personal Project</title>
 
 
 <link rel="stylesheet" href="/style.css">
-<link rel="alternate home" type="application/rss+xml" title="My New Verse Site subtitle: some thoughts, some musings... - RSS feed" href="/feed.xml">
+<link rel="alternate home" type="application/rss+xml" title="Jimmy's Personal Project - RSS feed" href="/feed.xml">
 </head>
 <body>
-  <h1>My New Verse Site subtitle: some thoughts, some musings...</h1>
+  <h1>Jimmy's Personal Project</h1>
   <nav>
     <li><a href="">Blog</a></li>
     <li><a href="/about">About Me</a></li>
@@ -21,7 +21,13 @@
   <main>
     <h1>About Me</h1>
 
-<p>This is my page!</p>
+<p>Hiyo!</p>
+
+<p>I am currently a 20 year old, who is attending school at University at Buffalo.</p>
+
+<p>I am expected to graduate in 2020 with a B.S in Computer Science. I am just enjoying the ride and am using Verse to create my website!</p>
+
+<p>Some of hobbies include going hiking, climbing, going to the gym and when I have spare time, I play League of Legends in my spare time.</p>
   </main>
 
   <footer>

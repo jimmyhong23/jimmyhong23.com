@@ -12,11 +12,11 @@
 #
 
 site:
-  title:    My New Verse Site subtitle: some thoughts, some musings...
-  author:   Your Name
+  title:    Jimmy's Personal Project
+  author:   Jimmy Hong
 
   # Canonical URL of your site (used for metadata, not linking)
-  canon:    http://example.com
+  canon:    http://jimmyhong23.com
 
   theme: default
 
