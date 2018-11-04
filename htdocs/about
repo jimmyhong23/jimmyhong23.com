@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf8">
+<meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi" />
+<meta name="generator" content="verse" />
+
+<title>Jimmy's Personal Project</title>
+
+
+<link rel="stylesheet" href="/style.css">
+<link rel="alternate home" type="application/rss+xml" title="Jimmy's Personal Project - RSS feed" href="/feed.xml">
+</head>
+<body>
+  <h1>Jimmy's Personal Project</h1>
+  <nav>
+    <li><a href="">Blog</a></li>
+    <li><a href="/about">About Me</a></li>
+    </nav>
+
+  <main>
+    <h1>About Me</h1>
+
+<p><head>
+<title> yeey </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></p>
+
+<p></head>
+Hiyo!</p>
+
+<p>I am currently a 20 year old, who is attending school at University at Buffalo.</p>
+
+<p>I am expected to graduate in 2020 with a B.S in Computer Science. I am just enjoying the ride and am using Verse to create my website!</p>
+
+<p>Some of hobbies include going hiking, climbing, going to the gym and when I have spare time, I play League of Legends in my spare time.</p>
+
+<p>I will attach my socials down below!</p>
+
+<p><a href="https://www.linkedin.com/in/jimmy-hong-5068a815a/" class="fa fa-linkedin-square"></a>      <a href="https://github.com/jimmyhong23" class="fa fa-github-square"></a></p>
+  </main>
+
+  <footer>
+    <p>Powered by <a href="https://verse.jameshunt.us" target="_blank">Verse</a>
+  </footer>
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat|Titillium+Web|Roboto+Mono" rel="stylesheet">
+</body>
+</html>

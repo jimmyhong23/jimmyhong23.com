@@ -1,0 +1,7 @@
+[% FOR article IN articles %]
+<article>
+  <h2>[% article.attrs.title %]</h2>
+  <p>[% article.attrs.dated %]</p>
+  [% article.attrs.body %]
+</article>
+[% END %]
