@@ -11,27 +11,13 @@
 
   
   <entry>
-    <title><![CDATA[Projects2]]></title>
-    <link href="//.html?rss" />
-    <id>/writings/.html</id>
-    <updated>1969-12-31T19:00:00</updated>
-    <content type="html"><![CDATA[<h1>About Me</h1>
-
-<p><head>
-<title> yeey </title>
-</head></p>
-
-<p>Here are some of my current and past projects!</p>]]></content>
-  </entry>
-
-  <entry>
     <title><![CDATA[Blog!]]></title>
     <link href="//.html?rss" />
     <id>/writings/.html</id>
     <updated>1969-12-31T19:00:00</updated>
     <content type="html"><![CDATA[<p>Hi! </p>
 
-<p>This is my blog! Test</p>]]></content>
+<p>This is my blog!</p>]]></content>
   </entry>
 
 </feed>

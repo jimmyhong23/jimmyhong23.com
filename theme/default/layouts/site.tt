@@ -42,7 +42,7 @@
 <body>
   <h1>[% site.title %]</h1>
   <nav>
-    <li><a href="[% site.url %]">Blog</a></li>
+    <li><a href="[% site.url %]index.html">Blog</a></li>
     <li><a href="[% site.url %]/about">About Me</a></li>
     [% if site.id.twitter -%]
     <li><a href="https://twitter.com/[% site.id.twitter %]">Twitter</a></li>
