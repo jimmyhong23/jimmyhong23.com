@@ -1,8 +1,7 @@
 title:    Blog!
 format:   markdown
-url:   /index.html
-featured: no
+featured: yes
 --- |-
 Hi! 
 
-This is my blog!
+This is my blog! Test

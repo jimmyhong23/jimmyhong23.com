@@ -19,15 +19,13 @@
     </nav>
 
   <main>
-    
-<article>
-  <h2>Blog!</h2>
-  <p></p>
-  <p>Hi! </p>
+    <h1>About Me</h1>
 
-<p>This is my blog! Test</p>
-</article>
+<p><head>
+<title> yeey </title>
+</head></p>
 
+<p>Here are some of my current and past projects!</p>
   </main>
 
   <footer>

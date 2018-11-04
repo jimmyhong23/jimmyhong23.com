@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jimmy's Personal Project</title>
-  <link href="http://jimmyhong23.com/rss.xml" rel="self" />
-  <link href="http://jimmyhong23.com" />
+  <link href="http://www.jimmyhong23.com/rss.xml" rel="self" />
+  <link href="http://www.jimmyhong23.com" />
 
   <updated>1969-12-31T19:00:00</updated>
-  <id>http://jimmyhong23.com</id>
+  <id>http://www.jimmyhong23.com</id>
   <author><name>Jimmy Hong</name></author>
   <generator uri="http://verse.jameshunt.us/">Verse</generator>
 
   
+  <entry>
+    <title><![CDATA[Projects2]]></title>
+    <link href="//.html?rss" />
+    <id>/writings/.html</id>
+    <updated>1969-12-31T19:00:00</updated>
+    <content type="html"><![CDATA[<h1>About Me</h1>
+
+<p><head>
+<title> yeey </title>
+</head></p>
+
+<p>Here are some of my current and past projects!</p>]]></content>
+  </entry>
+
   <entry>
     <title><![CDATA[Blog!]]></title>
     <link href="//.html?rss" />
@@ -17,7 +31,7 @@
     <updated>1969-12-31T19:00:00</updated>
     <content type="html"><![CDATA[<p>Hi! </p>
 
-<p>This is my blog!</p>]]></content>
+<p>This is my blog! Test</p>]]></content>
   </entry>
 
 </feed>
