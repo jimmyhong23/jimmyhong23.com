@@ -14,8 +14,10 @@
 <body>
   <h1>Jimmy's Personal Project</h1>
   <nav>
-    <li><a href="index.html">Blog</a></li>
+    <li><a href="/index.html">Main Page</a></li>
+    <li><a href="/blog">Blog</a></li>
     <li><a href="/about">About Me</a></li>
+    <li><a href="/projects">Projects</a></li>
     </nav>
 
   <main>
@@ -26,7 +28,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></p>
 
 <p></head>
-Hiyo!</p>
+Hiyo! test </p>
 
 <p>I am currently a 20 year old, who is attending school at University at Buffalo.</p>
 
